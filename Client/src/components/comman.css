@@ -1,0 +1,38 @@
+.searchCss {
+    margin-right: 46.5rem
+}
+
+.text {
+    text-decoration: none;
+}
+
+.bgcol {
+    background-color: rgba(0, 0, 0, 0.05)
+}
+
+.rounded-t-5 {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+@media (min-width: 992px) {
+    .rounded-tr-lg-0 {
+        border-top-right-radius: 0;
+    }
+
+    .rounded-bl-lg-5 {
+        border-bottom-left-radius: 0.5rem;
+    }
+}
+
+.login {
+    margin-top: 15rem
+}
+
+.signup {
+    margin-top: 10rem
+}
+
+.border {
+    border: 1px black solid;
+}
